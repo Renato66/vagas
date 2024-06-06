@@ -1,0 +1,6 @@
+{
+  labelsNotAllowed: [
+    'Fora dos padrões',
+    'Falta de informações'
+  ]
+}
